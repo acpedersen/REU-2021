@@ -1,7 +1,6 @@
 #ignore slurm files
 slurm-*.out
-/.ipynb_checkpoint
-/Trec_data
+Trec_data/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
