@@ -1,6 +1,7 @@
 #ignore slurm files
 slurm-*.out
-Trec_data/*
+Trec_data/
+Models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
