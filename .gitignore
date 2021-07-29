@@ -1,6 +1,8 @@
 #ignore slurm files
 slurm-*.out
 Trec_data/
+!Trec_data/prioScoreDF.json
+!Trec_data/catScoreDF.json
 Models/
 
 # Byte-compiled / optimized / DLL files
